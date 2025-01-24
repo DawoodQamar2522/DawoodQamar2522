@@ -19,6 +19,5 @@
 
 <img align='right' src='https://github.com/user-attachments/assets/c977bed0-5644-4b5b-80bb-be06596fc5fc' width='200"'>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
