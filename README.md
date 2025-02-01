@@ -83,7 +83,7 @@ exeNyx7@github:~$ ./whoami.sh
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar" download>Download my resume</a>
 <br><br><br>
-<br><br><br>
+
 
 <h2 align="center">&lt;/&gt; Technical Proficiency</h2>
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
