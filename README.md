@@ -77,6 +77,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
+<h2 align="center">&lt;/&gt; Let's Connect</h2>
 <img align="right" src="./resources/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
 
 ### Employer?
@@ -85,7 +86,6 @@ exeNyx7@github:~$ ./whoami.sh
 <br><br><br>
 <br><br>
 
-<h2 align="center">&lt;/&gt; Let's Connect</h2>
 
 <br clear="both">
 
