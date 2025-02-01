@@ -118,10 +118,9 @@ exeNyx7@github:~$ ./whoami.sh
     <img src="./resources/svg/artificialintelligence.svg" height="299px"/>
 </div>
 
-<br>
+<be>
 
-
-
+<div>
 
 <h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
 <br />
@@ -267,7 +266,7 @@ exeNyx7@github:~$ ./whoami.sh
         </tr>
     </table>
 </div>
-
+</div>
 <br />
 
 
