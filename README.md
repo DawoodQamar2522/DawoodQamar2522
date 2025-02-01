@@ -245,13 +245,13 @@ exeNyx7@github:~$ ./whoami.sh
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
 </div>
 
+
 <h2 align="center">📊 Stats 📊</h2>
-<br>
+<div>
 <p align="left">
  <a href="#" alt="Most used languages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord&layout=compact" />
  </a>
- <br><br>
 </p>
 
 <p align="right">
@@ -259,6 +259,9 @@ exeNyx7@github:~$ ./whoami.sh
   <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=nord&show_icons=true&layout=compact" />
  </a>
 </p>
+</div>
+
+
 ---
 
 ### Let's Connect
