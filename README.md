@@ -168,53 +168,53 @@ exeNyx7@github:~$ ./whoami.sh
 <div align="center">
     <table align="center">
         <tr>
-            <td align="center" width="120" height="105.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px"/>
                 <br />
             </td>
-                        <td align="center" width="140" height="112.43">
+                        <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
                 <br />
             </td>
-                        <td align="center" width="140" height="112.43">
+                        <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50px"/>
                 <br />
             </td>
-                        <td align="center" width="140" height="112.43">
+                        <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px"/>
                 <br />
             </td>
         </tr>
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                     <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                     <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="110" height="90">
+                     <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
                 <br />
             </td>
