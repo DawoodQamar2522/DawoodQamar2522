@@ -12,7 +12,8 @@ exeNyx7@github:~$ ./whoami.sh
 ```
 ```
  _____________________________________
-< Welcome to my personal github page! >
+< Welcome to my personal GitHub page! />
+< for more details: https://dawood-qamar.vercel.app/ />
  ------------------------------------- 
         \   ^__^
          \  (oo)\_______
