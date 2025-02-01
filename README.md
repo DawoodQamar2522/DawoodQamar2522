@@ -252,6 +252,7 @@ exeNyx7@github:~$ ./whoami.sh
 <h2 align="center">&lt;/&gt; Stats & Activity</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
     <br>
+    <br>
 </div>
 
 
