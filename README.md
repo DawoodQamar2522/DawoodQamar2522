@@ -81,7 +81,7 @@ exeNyx7@github:~$ ./whoami.sh
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
 
 <div align="center">
-    <table align="center">
+    <table align="left">
         <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
@@ -127,9 +127,9 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<h3 align="center">&lt;/&gt; Tools & Technologies</h3> 
-<div align="center">
-    <table align="center">
+<h3 align="left">&lt;/&gt; Tools & Technologies</h3> 
+<div align="left">
+    <table align="left">
         <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
