@@ -116,7 +116,7 @@ exeNyx7@github:~$ ./whoami.sh
         </tr>
     </table>
     <br />
-    <img src="./resources/svg/artificialintelligence.svg" height="250px"/>
+    <img src="./resources/svg/artificialintelligence.svg" height="222px"/>
     <br />
 </div>
 
