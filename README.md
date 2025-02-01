@@ -111,9 +111,10 @@ exeNyx7@github:~$ ./whoami.sh
 
 <br>
 
-<img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
-<br>
 
+<img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
+<be>
+<div align="center" </div>
 <div align="center">
     <table align="right">
         <tr>
