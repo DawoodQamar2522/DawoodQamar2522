@@ -86,7 +86,7 @@ zsh
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
 </div>
 
 <h2 align="center">🌐 Let's Connect</h2>
