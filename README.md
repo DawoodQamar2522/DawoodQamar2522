@@ -125,12 +125,12 @@ exeNyx7@github:~$ ./whoami.sh
 
 <br>
 
-<div align="right">
-        ###</> Frameworks & Libraries
-</div>
+
+
 
 <img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
-<be>
+<br>
+        ###</> Frameworks & Libraries
 <div align="center" </div>
 <div align="center">
     <table align="right">
