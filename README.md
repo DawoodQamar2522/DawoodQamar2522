@@ -40,21 +40,21 @@ exeNyx7@github:~$ ./whoami.sh
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./resources/icons/react.svg" width="65px"/>
-                <br /> React
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px"/>
+                <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" width="65px"/>
-                <br /> Node.js
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="65px"/>
+                <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./resources/icons/mongodb.svg" width="65px"/>
-                <br /> MongoDB
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
+                <br />
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./resources/icons/docker.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65px"/>
                 <br /> Docker
             </td>
             <td align="center" width="140" height="112.43">
