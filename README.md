@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./resources/Banner.png" alt="Header" />
+    <img src="./resources/Banner.png" alt="Header" />
 </div>
 
 
@@ -82,7 +82,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
                 <br />
             </td>
-           <td align="center" width="110" height="90">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
                 <br />
             </td>
@@ -92,7 +92,6 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
         <tr>
-            </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
                 <br />
@@ -104,20 +103,21 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
                 <br />
+            </td>
         </tr>
+        <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
                 <br />
             </td>
-           <td align="center" width="110" height="90">
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
-               <br />
-           </td>
-                 <td align="center" width="110" height="90">
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-               <br />
-           </td>
-      <tr>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+                <br />
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+                <br />
+            </td>
         </tr>
     </table>
     <img src="./resources/svg/artificialintelligence.svg" height="300px"/>
@@ -166,7 +166,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
             </td>
             <td align="center" width="110" height="90">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50px"/>
             </td>
         </tr>
     </table>
@@ -185,13 +185,13 @@ exeNyx7@github:~$ ./whoami.sh
                     <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50px"/>
                 </td>
                 <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
                 </td>
                 <td align="center" width="110" height="90">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px"/>
                 </td>
                 <td align="center" width="110" height="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" width="50px"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>
                 </td>
                 <td align="center" width="110" height="90">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
@@ -222,7 +222,6 @@ exeNyx7@github:~$ ./whoami.sh
                 <td align="center" width="110" height="90">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
                 </td>
-                </td>
                 <td align="center" width="110" height="90">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
                 </td>
@@ -246,7 +245,6 @@ exeNyx7@github:~$ ./whoami.sh
                 <td align="center" width="110" height="90">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
                 </td>
-                </td>
                 <td align="center" width="110" height="90">
                     <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
                 </td>
@@ -258,9 +256,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-  <div align="right">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
-    </div>
+<div align="right">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
 </div>
 
 ---
