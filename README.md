@@ -174,9 +174,6 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
             </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50px"/>
-            </td>
         </tr>
         <tr>
             <td align="center" width="110" height="90">
@@ -190,9 +187,6 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px"/>
-            </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
             </td>
         </tr>
         <tr>
@@ -221,6 +215,14 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50px"/>
             </td>
         </tr>
     </table>
