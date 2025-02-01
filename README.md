@@ -121,7 +121,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
-<div align="center">
+<div align="left">
     <table align="left">
         <tr>
             <td align="center" width="110" height="90">
