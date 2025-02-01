@@ -158,8 +158,8 @@ exeNyx7@github:~$ ./whoami.sh
     </table>
 </div>
 
-<h3 align="center">&lt;/&gt; Tools & Technologies</h3> 
-<div align="center">
+<h3 align="right">&lt;/&gt; Tools & Technologies</h3> 
+<div align="right">
     <table>
         <tr>
             <td align="center" width="110" height="90">
