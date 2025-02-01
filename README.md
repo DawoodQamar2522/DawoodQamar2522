@@ -236,6 +236,9 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
             </td>
+            <td align="center" width="110" height="90">
+                <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
+            </td>
         </tr>
     </table>
 </div>
