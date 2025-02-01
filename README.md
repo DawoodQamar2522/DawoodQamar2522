@@ -146,19 +146,15 @@ exeNyx7@github:~$ ./whoami.sh
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="65px"/>
-                <br />
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
-                <br />
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65px"/>
-                <br />
             </td>
             <td align="center" width="140" height="112.43">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="65px"/>
-              <br />
             </td>
         </tr>
     </table>
