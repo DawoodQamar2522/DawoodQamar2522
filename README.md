@@ -20,7 +20,7 @@
     Lastname: Qamar
     Nickname: exeNyx7
     Education: Software Engineering @ FAST-NUCES
-    Interests: ["Web Development"], ["DevOps"], ["System Design"]
+    Interests: ["Web Development"], ["DevOps"], ["System Design"], ["AI/ML"]
     Languages: ["English"], ["Urdu"]
     Location: Islamabad, Pakistan
 ```
