@@ -214,33 +214,33 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                      <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
                 <br />
             </td>
         </tr>
               <tr>
-            <td align="center" width="120" height="100.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
                 <br />
             </td>
-           <td align="center" width="120" height="100.43">
+           <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="120" height="100.43">
+           <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="120" height="100.43">
+                      <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="120" height="100.43">
+                      <td align="center" width="110" height="90">
                 <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="120" height="100.43">
+                      <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
                 <br />
             </td>
