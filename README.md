@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://i.imgur.com/OZd7cXN.png" width="100%" alt="Header"/>
-</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=940&lines=Software+Engineering+Student+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Innovative+Web+Solutions+%E2%9A%A1;Architecture+%7C+Development+%7C+DevOps+%F0%9F%8C%8C;Transforming+Ideas+into+Scalable+Solutions+%F0%9F%8C%A0" alt="Typing SVG" />
+  <img src="./resources/Banner.png" alt="Header" />
 </div>
 
 ```zsh
@@ -24,6 +21,7 @@
     Languages: ["English"], ["Urdu"]
     Location: Islamabad, Pakistan
 ```
+
 </div>
 
 <br clear="right"/>
@@ -34,31 +32,38 @@
 </h2>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> Professional Experience
+
 **Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*
+
 - Developed scalable web applications using modern JavaScript frameworks
 - Implemented responsive design patterns for enhanced user experience
 - Collaborated in an agile environment with cross-functional teams
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="25" height="25" /> Learning These Days
+
 ![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus,jenkins&theme=dark)
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </> Technical Arsenal
 </h2>
 
 <div align="center">
   
 ### </> Frontend Development
+
 ![Frontend Stack](https://skillicons.dev/icons?i=react,next,typescript,tailwind,materialui&theme=dark)
 
 ### </> Backend & Database
+
 ![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis&theme=dark)
 
 ### </> DevOps & Cloud
+
 ![DevOps Stack](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,terraform&theme=dark)
 
 ### </> Development Tools
+
 ![Tools](https://skillicons.dev/icons?i=git,vscode,figma,postman,jest&theme=dark)
 
 </div>
