@@ -120,7 +120,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 <be>
 
-<div>
+<br />
+<br />
 
 <h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
 <br />
@@ -265,7 +266,6 @@ exeNyx7@github:~$ ./whoami.sh
             </tr>
         </tr>
     </table>
-</div>
 </div>
 <br />
 
