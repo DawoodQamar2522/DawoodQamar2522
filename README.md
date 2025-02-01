@@ -120,8 +120,6 @@ exeNyx7@github:~$ ./whoami.sh
     <br />
 </div>
 
-<br />
-<br />
 
 <h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
 <div align="center">
@@ -171,8 +169,8 @@ exeNyx7@github:~$ ./whoami.sh
 <br />
 
 
+<h3>&lt;/&gt; Tools & Technologies</h3> 
 <div align="center">
-    <h3>&lt;/&gt; Tools & Technologies</h3>
     <table>
         <tr>
             <td align="center" width="110" height="90">
