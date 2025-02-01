@@ -271,13 +271,13 @@ exeNyx7@github:~$ ./whoami.sh
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/432108089106235392" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="work.dawoodqamar@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
