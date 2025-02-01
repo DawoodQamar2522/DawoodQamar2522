@@ -44,7 +44,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <br /> React
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./resources/icons/nodejs.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" width="65px"/>
                 <br /> Node.js
             </td>
             <td align="center" width="140" height="112.43">
