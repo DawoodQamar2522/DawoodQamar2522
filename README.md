@@ -206,7 +206,10 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
                 <br />
             </td>
-
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+                <br />
+            </td>
                      <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
                 <br />
