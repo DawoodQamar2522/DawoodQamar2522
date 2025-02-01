@@ -72,7 +72,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
-### </> Programming Languages
+
+<h3 align="right">&lt;/&gt; Programming Languages</h3>
 <br>
 
 <div align="center">
