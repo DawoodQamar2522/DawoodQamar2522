@@ -133,8 +133,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <div align="center">
-    <table align="right">
 ### </> Frameworks & Libraries
+    <table align="right">
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px"/>
