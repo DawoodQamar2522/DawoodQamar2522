@@ -169,6 +169,9 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px"/>
             </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
+            </td>
         </tr>
         <tr>
             <td align="center" width="110" height="90">
@@ -185,9 +188,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
         <tr>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
-            </td>
+
 
         </tr>
     </table>
