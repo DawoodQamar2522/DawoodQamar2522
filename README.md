@@ -158,13 +158,13 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px"/>
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="110" height="90">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50px"/>
             </td>
         </tr>
