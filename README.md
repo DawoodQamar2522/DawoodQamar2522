@@ -198,9 +198,9 @@ exeNyx7@github:~$ ./whoami.sh
 </div>
 
 <br> 
-<h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
-<div align="right">
-    <table align="right">
+<h3 align="center">&lt;/&gt; Frameworks & Libraries</h3>
+<div align="center">
+    <table align="center">
         <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
