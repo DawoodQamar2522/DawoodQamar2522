@@ -83,7 +83,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
