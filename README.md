@@ -256,7 +256,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 <p align="center">
  <a href="#" alt="github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=transparent&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=nord&show_icons=true&layout=compact" />
  </a>
 </p>
 ---
