@@ -21,6 +21,8 @@ exeNyx7@github:~$ ./whoami.sh
 ```
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 
+<h3 align="left">&lt;/&gt; About Me</h3> 
+
 ```csharp
     Human Information
     ------------------------------------------
