@@ -10,9 +10,7 @@ exeNyx7@github:~$ ./whoami.sh
 ```
 <h3 align="left">&lt;/&gt; Welcome</h3> 
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="" download>Download my resume</a>
+
 ```
  _____________________________________
 < Welcome to my personal GitHub page! />
@@ -24,6 +22,11 @@ exeNyx7@github:~$ ./whoami.sh
                 ||----w |
                 ||     ||
 ```
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="" download>Download my resume</a>
+
 <h2 align="center">&lt;/&gt; About Me</h2>
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 <h3 align="left">&lt;/&gt; Introduction</h3> 
@@ -278,4 +281,4 @@ exeNyx7@github:~$ ./whoami.sh
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e3440&height=120&section=footer" alt="footer"/>
