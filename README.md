@@ -23,8 +23,6 @@ exeNyx7@github:~$ ./whoami.sh
                 ||     ||
 ```
 <h2 align="center">&lt;/&gt; About Me</h2>
-<br>
-
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 <h3 align="left">&lt;/&gt; Introduction</h3> 
 
