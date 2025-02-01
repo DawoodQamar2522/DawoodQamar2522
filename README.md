@@ -73,8 +73,10 @@ exeNyx7@github:~$ ./whoami.sh
     - Utilized agile methodologies for project delivery
 
 ```
+
+### Common Techstack
 <br>
-### I Often Use
+
 <div align="center">
     <table align="left">
         <tr>
