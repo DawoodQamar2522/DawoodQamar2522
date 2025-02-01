@@ -132,7 +132,7 @@ exeNyx7@github:~$ ./whoami.sh
 <be>
 
 <div></div>
-
+<div></div>
 <h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
 
 <div align="center">
@@ -171,6 +171,7 @@ exeNyx7@github:~$ ./whoami.sh
         </tr>
     </table>
 </div>
+<div></div>
 <img src="./resources/svg/inspiration.svg" height="280px"/>
 
 
