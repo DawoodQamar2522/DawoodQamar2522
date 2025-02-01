@@ -245,7 +245,12 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
                       <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
+                <br />
+            </td>
+                            </td>
+                      <td align="center" width="110" height="90">
+                <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
                 <br />
             </td>
         </tr>
