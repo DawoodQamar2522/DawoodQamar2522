@@ -123,7 +123,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<h4 align="left">&lt;/&gt; Frameworks & Libraries</h3>
+<h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
 <br />
 <div align="center">
     <table align="left">
@@ -173,7 +173,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <div align="center">
-    <h4>&lt;/&gt; Tools & Technologies</h3>
+    <h3>&lt;/&gt; Tools & Technologies</h3>
     <br />
     <table>
         <tr>
@@ -198,10 +198,6 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
             <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
-                <br />
-            </td>
-            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50px"/>
                 <br />
             </td>
@@ -223,11 +219,6 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px"/>
                 <br />
-            </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px"/>
-                <br />
-            </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
                 <br />
@@ -247,6 +238,11 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
             <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px"/>
+                <br />
+            </td>
+            </td>
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"/>
                 <br />
             </td>
@@ -256,6 +252,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
+            <tr>
                 <br />
             </td>
             <td align="center" width="110" height="90">
@@ -266,6 +263,11 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
                 <br />
             </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
+                <br />
+            </td>
+            </tr>
         </tr>
     </table>
 </div>
