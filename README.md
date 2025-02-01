@@ -169,7 +169,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    <img src=""/>
+
 </div>
 <br>
 
