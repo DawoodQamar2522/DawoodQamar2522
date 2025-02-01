@@ -172,7 +172,7 @@ exeNyx7@github:~$ ./whoami.sh
 <br />
 
 
-<div align="left">
+<div align="right">
     <h3>&lt;/&gt; Tools & Technologies</h3>
     <br />
     <table>
