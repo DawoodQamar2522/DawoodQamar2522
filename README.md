@@ -1,141 +1,86 @@
-<h1 align="center">Hi there! 👋 I'm Dawood Qamar</h1>
-
-<p align="center">
-  <em>Software Engineering Undergraduate | Full Stack Developer | Technology Enthusiast</em>
-</p>
-
-## About Me
-
-I am a dedicated Software Engineering student at FAST-NUCES Islamabad, passionate about developing scalable solutions and exploring emerging technologies. With comprehensive experience across full-stack development, quality assurance, and DevOps methodologies, I bring a multifaceted approach to software engineering. My expertise extends beyond traditional development to encompass UI/UX design, creating intuitive user experiences through innovative design principles.
-
-### Professional Strengths
-- 🚀 Full-stack development with modern technologies
-- 🔧 Software architecture and system design
-- 🛠️ DevOps practices and cloud infrastructure
-- 🎨 UI/UX design with industry-standard tools
-- 🔍 Quality assurance and testing methodologies
-- 📊 Database management and optimization
-- 🎯 Strong problem-solving capabilities
-
-## Education
-- **Bachelor of Science in Software Engineering**
-  - FAST National University of Computer and Emerging Sciences, Islamabad
-  - Expected Graduation: 2026
-  - Focus Areas: Software Design, Systems Architecture, Cloud Computing
-
-## Professional Experience
-**Full Stack Developer Intern** | Tier5 Solutions
-- Summer 2023
-- Developed and maintained scalable web applications using modern JavaScript frameworks
-- Collaborated with cross-functional teams to implement robust solutions
-- Contributed to both frontend and backend development lifecycles
-- Utilized agile methodologies for project delivery
-
-<h2 align="center">Technical Arsenal</h2>
-
-<h3 align="center">Programming Languages</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=940&lines=Software+Engineering+Student+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Innovative+Web+Solutions+%E2%9A%A1;Architecture+%7C+Development+%7C+DevOps+%F0%9F%8C%8C;Transforming+Ideas+into+Scalable+Solutions+%F0%9F%8C%A0" alt="Typing SVG" />
+
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=dawoodqamar&style=for-the-badge&color=4F94EF&labelColor=000000" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/dawoodqamar?style=for-the-badge&color=4F94EF&labelColor=000000" alt="Followers" />
+  </div>
 </div>
 
-<h3 align="center">Frontend Development</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" title="Tailwind CSS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui" title="Material UI" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" title="Bootstrap" />
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  </> Professional Overview
+</h2>
+
+<div align="left">
+  <img align="right" width="38%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Grid"/>
+
+  > *`Engineering robust and scalable solutions with a focus on user experience and performance`*
+
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="25" height="25" /> </> Education
+  - **Bachelor of Science in Software Engineering** @ FAST-NUCES Islamabad
+    - Expected Graduation: 2026
+    - Focus: Software Architecture, Cloud Computing, Database Systems
+  
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> </> Professional Experience
+  **Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*
+  - Developed scalable web applications using modern JavaScript frameworks
+  - Implemented responsive design patterns for enhanced user experience
+  - Collaborated in an agile environment with cross-functional teams
 </div>
 
-<h3 align="center">Backend Development</h3>
+<br clear="right"/>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </> Technical Arsenal
+</h2>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" title="NestJS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" title="Express.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet" title=".NET" />
+  
+### </> Frontend Development
+![Frontend Stack](https://skillicons.dev/icons?i=react,next,typescript,tailwind,materialui&theme=dark)
+
+### </> Backend & Database
+![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis&theme=dark)
+
+### </> DevOps & Cloud
+![DevOps Stack](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,terraform&theme=dark)
+
+### </> Development Tools
+![Tools](https://skillicons.dev/icons?i=git,vscode,figma,postman,jest&theme=dark)
+
 </div>
 
-<h3 align="center">Database Technologies</h3>
+<h2 align="center">
+  🌟 </> Achievement Matrix
+</h2>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" title="SQL Server" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" title="Redis" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" title="Oracle" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodqamar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<h3 align="center">DevOps & Cloud Infrastructure</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" title="Kubernetes" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" title="AWS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" title="Azure" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp" title="Google Cloud" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins" title="Jenkins" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" title="Terraform" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawoodqamar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodqamar&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<h3 align="center">Development & Design Tools</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" title="Figma" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" title="Postman" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira" title="Jira" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" title="Jest" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium" title="Selenium" />
-</div>
+<h2 align="center">
+  🌐 </> Let's Connect
+</h2>
 
-<h2 align="center">Connect With Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.dawoodqamar@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://discordapp.com/users/432108089106235392" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
----
-
 <div align="center">
-  <em>Dedicated to crafting elegant solutions through code and innovation. Open to collaborative opportunities and technical discussions.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
