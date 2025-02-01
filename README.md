@@ -250,10 +250,10 @@ exeNyx7@github:~$ ./whoami.sh
 <div>
 <p align="left">
  <a href="#" alt="Most used languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/github-readme-stats/?username=exeNyx7&theme=nord&layout=compact" />
  </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="right">
  <a href="#" alt="github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=nord&show_icons=true&layout=compact" />
