@@ -23,9 +23,7 @@ exeNyx7@github:~$ ./whoami.sh
                 ||     ||
 ```
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="" download>Download my resume</a>
+
 
 <h2 align="center">&lt;/&gt; About Me</h2>
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
@@ -78,6 +76,10 @@ exeNyx7@github:~$ ./whoami.sh
     - Utilized agile methodologies for project delivery
 
 ```
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar" download>Download my resume</a>
 
 <h2 align="center">&lt;/&gt; Technical Proficiency</h2>
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
