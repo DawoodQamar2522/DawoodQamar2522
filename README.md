@@ -73,7 +73,7 @@ exeNyx7@github:~$ ./whoami.sh
 ```
 
 
-<h3 align="right">&lt;/&gt; Programming Languages</h3>
+<h3 align="left">&lt;/&gt; Programming Languages</h3>
 <br>
 
 <div align="center">
@@ -165,13 +165,10 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
+    <img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
 </div>
 
-<img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
-<br>
 
-<div></div>
-<div></div>
 <h3 align="center">&lt;/&gt; Tools & Technologies</h3>
 
 <div align="center">
