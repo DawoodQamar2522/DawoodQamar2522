@@ -77,7 +77,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" />
+<img align="right" src="240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" />
 
 ### Employer?
 > [!IMPORTANT]  
