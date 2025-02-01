@@ -78,41 +78,41 @@ exeNyx7@github:~$ ./whoami.sh
 <div align="center">
     <table align="left">
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="100.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65px"/>
-                <br />
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65px"/>
                 <br />
             </td>
         </tr>
         <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65px"/>
-                <br />
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65px"/>
-                <br />
-            </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65px"/>
                 <br />
             </td>
+            <td align="center" width="140" height="100.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="100.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65px"/>
+                <br />
         </tr>
-           <td align="center" width="140" height="112.43">
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px"/>
-               <br />
-           </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65px"/>
                 <br />
             </td>
+           <td align="center" width="140" height="100.43">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px"/>
+               <br />
+           </td>
       <tr>
         </tr>
     </table>
