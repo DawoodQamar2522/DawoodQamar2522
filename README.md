@@ -166,10 +166,11 @@ exeNyx7@github:~$ ./whoami.sh
     </table>
 </div>
 
-```console
-trykatchup@github:~$ </>./Tools & Technologies.sh
-```
-<!-- Move the heading to the correct position -->
+<img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
+<br>
+
+<div></div>
+<div></div>
 <h3 align="center">&lt;/&gt; Tools & Technologies</h3>
 
 <div align="center">
