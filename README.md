@@ -1,35 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=940&lines=Software+Engineering+Student+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Innovative+Web+Solutions+%E2%9A%A1;Architecture+%7C+Development+%7C+DevOps+%F0%9F%8C%8C;Transforming+Ideas+into+Scalable+Solutions+%F0%9F%8C%A0" alt="Typing SVG" />
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=dawoodqamar&style=for-the-badge&color=4F94EF&labelColor=000000" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/dawoodqamar?style=for-the-badge&color=4F94EF&labelColor=000000" alt="Followers" />
-  </div>
+  <img src="https://i.imgur.com/OZd7cXN.png" width="100%" alt="Header"/>
 </div>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
-  </> Professional Overview
-</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=940&lines=Software+Engineering+Student+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Innovative+Web+Solutions+%E2%9A%A1;Architecture+%7C+Development+%7C+DevOps+%F0%9F%8C%8C;Transforming+Ideas+into+Scalable+Solutions+%F0%9F%8C%A0" alt="Typing SVG" />
+</div>
+
+```zsh
+-> ~/Portfolio git:(main) > ./whoami.sh
+```
 
 <div align="left">
-  <img align="right" width="38%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Grid"/>
+  <img align="right" src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" width="38%" alt="Mario Animation"/>
 
-  > *`Engineering robust and scalable solutions with a focus on user experience and performance`*
-
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="25" height="25" /> </> Education
-  - **Bachelor of Science in Software Engineering** @ FAST-NUCES Islamabad
-    - Expected Graduation: 2026
-    - Focus: Software Architecture, Cloud Computing, Database Systems
-  
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> </> Professional Experience
-  **Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*
-  - Developed scalable web applications using modern JavaScript frameworks
-  - Implemented responsive design patterns for enhanced user experience
-  - Collaborated in an agile environment with cross-functional teams
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Dawood
+    Lastname: Qamar
+    Nickname: exeNyx7
+    Education: Software Engineering @ FAST-NUCES
+    Interests: ["Web Development"], ["DevOps"], ["System Design"]
+    Languages: ["English"], ["Urdu"]
+    Location: Islamabad, Pakistan
+```
 </div>
 
 <br clear="right"/>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  </> Professional Journey
+</h2>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> Professional Experience
+**Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*
+- Developed scalable web applications using modern JavaScript frameworks
+- Implemented responsive design patterns for enhanced user experience
+- Collaborated in an agile environment with cross-functional teams
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="25" height="25" /> Learning These Days
+![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus,jenkins&theme=dark)
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -53,16 +64,32 @@
 </div>
 
 <h2 align="center">
-  🌟 </> Achievement Matrix
+  📊 </> GitHub Analytics
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodqamar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<details>
+  <summary><b>Languages Stats</b></summary>
+  <br/>
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_bright">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_dark">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_bright">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_dark">
+  </picture>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark">
+</picture>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawoodqamar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodqamar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exeNyx7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">
