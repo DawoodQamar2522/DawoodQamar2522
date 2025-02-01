@@ -247,14 +247,14 @@ exeNyx7@github:~$ ./whoami.sh
 
 <h2 align="center">📊 Stats 📊</h2>
 <br>
-<p align="center">
+<p align="left">
  <a href="#" alt="Most used languages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord&layout=compact" />
  </a>
  <br><br>
 </p>
 
-<p align="center">
+<p align="right">
  <a href="#" alt="github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=nord&show_icons=true&layout=compact" />
  </a>
