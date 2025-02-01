@@ -79,21 +79,11 @@ exeNyx7@github:~$ ./whoami.sh
     <table align="left">
         <tr>
             <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-                <br />
-            </td>
-            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
                 <br />
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
-                <br />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
                 <br />
             </td>
             <td align="center" width="110" height="90">
@@ -107,6 +97,14 @@ exeNyx7@github:~$ ./whoami.sh
         </tr>
         <tr>
             <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
+                <br />
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+                <br />
+            </td>
+            <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
                 <br />
             </td>
@@ -119,6 +117,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
         </tr>
+
     </table>
     <img src="./resources/svg/artificialintelligence.svg" height="300px"/>
 </div>
