@@ -240,7 +240,7 @@ exeNyx7@github:~$ ./whoami.sh
 <div align="center">
     <br><br>
     <br><br>
-<h3 align="center">&lt;/&gt; Stats & Activity</h3>
+<h2 align="center">&lt;/&gt; Stats & Activity</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
 </div>
 
