@@ -162,7 +162,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    
+    <img src="./resources/svg/inspiration.svg" height="277px"/>
 </div>
 <br>
 
