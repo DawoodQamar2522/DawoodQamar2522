@@ -129,7 +129,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
-<be>
+<br>
 
 <div></div>
 <div></div>
@@ -172,9 +172,10 @@ exeNyx7@github:~$ ./whoami.sh
     </table>
 </div>
 
-
-<div align="center"></div>
-<div align="center"></div>
+```console
+trykatchup@github:~$ </>./Tools & Technologies.sh
+```
+<!-- Move the heading to the correct position -->
 <h3 align="center">&lt;/&gt; Tools & Technologies</h3>
 
 <div align="center">
