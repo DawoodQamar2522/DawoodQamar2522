@@ -8,8 +8,8 @@
 ```console
 exeNyx7@github:~$ ./whoami.sh
 ```
-<h3 align="center">&lt;/&gt; Welcome</h3> 
-<h2 align="center">&lt;/&gt; About Me</h2>
+<h3 align="left">&lt;/&gt; Welcome</h3> 
+
 
 ```
  _____________________________________
@@ -22,7 +22,7 @@ exeNyx7@github:~$ ./whoami.sh
                 ||----w |
                 ||     ||
 ```
-
+<h2 align="center">&lt;/&gt; About Me</h2>
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 <h3 align="left">&lt;/&gt; Introduction</h3> 
 
