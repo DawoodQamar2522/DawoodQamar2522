@@ -169,12 +169,13 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    <img src="./resources/svg/inspiration.svg" height="277px"/>
+    <img src="./resources/svg/inspiration.svg" height="280px"/>
 </div>
 <br>
 
 
-### </> Tools & Technologies
+
+<h3 align="center">&lt;/&gt; Tools & Technologies</h3>
 
 <div align="center">
     <table align="center">
