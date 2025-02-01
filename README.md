@@ -138,6 +138,10 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
                 <br />
             </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
+                <br />
+            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -151,6 +155,10 @@ exeNyx7@github:~$ ./whoami.sh
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65px"/>
                 <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65px"/>
+              <br />
             </td>
         </tr>
     </table>
