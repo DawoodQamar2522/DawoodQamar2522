@@ -108,10 +108,12 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65px"/>
                 <br />
             </td>
+        </tr>
            <td align="center" width="140" height="112.43">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px"/>
                <br />
            </td>
+      <tr>
         </tr>
     </table>
     <img src="./resources/svg/artificialintelligence.svg" height="225px"/>
