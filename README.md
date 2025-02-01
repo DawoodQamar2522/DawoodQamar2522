@@ -75,7 +75,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 <h2 align="center">&lt;/&gt; Technical Proficiency</h2>
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
-
+<br><br>
 <div align="center">
     <table align="left">
         <tr>
