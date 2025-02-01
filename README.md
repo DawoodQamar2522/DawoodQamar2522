@@ -137,6 +137,46 @@ csharp
   <a href="mailto:work.dawoodqamar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
+
+  <div align="center">
+  <img src="/resources/svg/banner.svg" alt="Dawood Qamar" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  Welcome to My GitHub Profile!
+</h2>
+
+<div align="center">
+  <img src="/resources/svg/tech-stack.svg" alt="Tech Stack" width="100%"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  Professional Journey
+</h2>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> Professional Experience  
+**Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*  
+- Developed scalable web applications using modern JavaScript frameworks  
+- Implemented responsive design patterns for enhanced user experience  
+- Collaborated in an agile environment with cross-functional teams  
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  <img src="/resources/svg/github-stats.svg" alt="GitHub Stats" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="/resources/svg/footer.svg" alt="Footer" width="100%"/>
+</div>
+
   <a href="https://discordapp.com/users/432108089106235392" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
