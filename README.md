@@ -192,6 +192,10 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50px"/>
                 <br />
             </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
+                <br />
+            </td>
         </tr>
         <tr>
             <td align="center" width="110" height="90">
@@ -235,9 +239,9 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
-            <tr>
                 <br />
             </td>
+            <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
                 <br />
@@ -246,18 +250,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
-                <br />
-            </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px"/>
-                <br />
-            </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50px"/>
-                <br />
-            </td>
+
             </tr>
         </tr>
     </table>
