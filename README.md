@@ -9,11 +9,10 @@
 <h2 align="center">Hi There 👋</h2>
 <p align="center">My name is Dawood Qamar, and welcome to my GitHub profile!</p>
 
-```
-zsh
--> ~/Portfolio git:(main) > ./whoami.sh
-```
 
+```console
+exeNyx7@github:~$ ./whoami.sh
+```
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 
 ```csharp
