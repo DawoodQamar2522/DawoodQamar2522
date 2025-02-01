@@ -190,7 +190,7 @@ exeNyx7@github:~$ ./whoami.sh
         <tr></tr>
     </table>
 </div>
-<br />
+
 
 <h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
 <div align="right">
