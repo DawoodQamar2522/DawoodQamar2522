@@ -129,8 +129,9 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
-<br>
+<be>
 
+<div></div>
 
 <h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
 
