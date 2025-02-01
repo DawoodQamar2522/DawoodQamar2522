@@ -163,7 +163,7 @@ exeNyx7@github:~$ ./whoami.sh
 <br>
 
 
-### GitHub Analytics
+### </> Tools & Technologies
 
 <div align="center">
     <table align="center">
@@ -220,27 +220,27 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
               <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="120" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+           <td align="center" width="120" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="120" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                      <td align="center" width="120" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                      <td align="center" width="120" height="100.43">
                 <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
                 <br />
             </td>
-                      <td align="center" width="140" height="112.43">
+                      <td align="center" width="120" height="100.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
                 <br />
             </td>
