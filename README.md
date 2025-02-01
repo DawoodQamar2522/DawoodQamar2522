@@ -1,5 +1,28 @@
 ###
+<div align="center">
+  <img src="./resources/Banner.png" alt="Header" />
+</div>
 
+zsh
+-> ~/Portfolio git:(main) > ./whoami.sh
+
+
+<div align="left">
+  <img align="right" src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" width="38%" alt="Mario Animation"/>
+
+csharp
+    Human Information
+    ------------------------------------------
+    Name: Dawood
+    Lastname: Qamar
+    Nickname: exeNyx7
+    Education: Software Engineering @ FAST-NUCES
+    Interests: ["Web Development"], ["DevOps"], ["System Design"], ["AI/ML"]
+    Languages: ["English"], ["Urdu"]
+    Location: Islamabad, Pakistan
+
+
+</div>
 <h1 align="center">Technical Proficiency</h1>
 
 ###
