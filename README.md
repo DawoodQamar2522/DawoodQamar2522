@@ -74,7 +74,6 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
-<br>
 
 <div align="center">
     <table align="left">
@@ -169,7 +168,7 @@ exeNyx7@github:~$ ./whoami.sh
 <br />
 
 
-<h3>&lt;/&gt; Tools & Technologies</h3> 
+<h3 align="right">&lt;/&gt; Tools & Technologies</h3> 
 <div align="center">
     <table>
         <tr>
