@@ -43,7 +43,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<h2 align="center">&lt;/&gt; Education & Experience</h2> 
+<h2 align="center">&lt;/&gt; Professional Overview</h2> 
 
 ```csharp
     Professional Strengths
@@ -74,7 +74,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
-<h2 align="left">&lt;/&gt; Technical Proficiency</h2>
+<h2 align="center">&lt;/&gt; Technical Proficiency</h2>
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
 <div align="center">
     <table align="left">
