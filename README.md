@@ -132,7 +132,8 @@ exeNyx7@github:~$ ./whoami.sh
 <br>
 
 
-<h3 align="right"> </> Frameworks & Libraries </h3>
+<h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
+
 <div align="center">
     <table align="right">
         <tr>
