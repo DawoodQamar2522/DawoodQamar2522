@@ -173,35 +173,37 @@ exeNyx7@github:~$ ./whoami.sh
     <table align="center">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="65px"/>
+                <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px"/>
                 <br />
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
                 <br />
             </td>
         </tr>
     </table>
 
-    <div align="right">
+
+
+  <div align="right">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
     </div>
 </div>
