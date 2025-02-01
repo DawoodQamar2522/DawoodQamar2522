@@ -80,7 +80,7 @@ exeNyx7@github:~$ ./whoami.sh
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar" download>Download my resume</a>
-<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
 <br>
 
 <h2 align="center">&lt;/&gt; Technical Proficiency</h2>
