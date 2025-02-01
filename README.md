@@ -172,7 +172,7 @@ exeNyx7@github:~$ ./whoami.sh
 <br />
 
 
-<div align="center">
+<div align="left">
     <h3>&lt;/&gt; Tools & Technologies</h3>
     <br />
     <table>
@@ -242,10 +242,6 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
             <tr>
                 <br />
-                <td align="center" width="110" height="90">
-                <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50px"/>
-                <br />
-            </td>
             </td>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
