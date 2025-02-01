@@ -72,7 +72,7 @@ exeNyx7@github:~$ ./whoami.sh
     - Contributed to both frontend and backend development lifecycles
     - Utilized agile methodologies for project delivery
 
-
+```
 <br>
 
 <div align="center">
