@@ -2,19 +2,13 @@
   <img src="./resources/Banner.png" alt="Header" />
 </div>
 
-<p align="center">
-    <img src="resources/svg/inspiration.svg" width="480px"/>
-</p>
-
-<h2 align="center">Hi There</h2>
-<p align="center">I'm Dawood Qamar, a passionate software engineer exploring the world of tech.</p>
-
 zsh
 -> ~/Portfolio git:(main) > ./whoami.sh
 
-<img align="left" src="resources/svg/givingback.svg" height="222px"/>
+<div align="left">
+  <img align="right" src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" width="38%" alt="Mario Animation"/>
 
-```csharp
+csharp
     Human Information
     ------------------------------------------
     Name: Dawood
@@ -24,70 +18,117 @@ zsh
     Interests: ["Web Development"], ["DevOps"], ["System Design"], ["AI/ML"]
     Languages: ["English"], ["Urdu"]
     Location: Islamabad, Pakistan
-```
 
-<br clear="left"/>
-
-<div align="center">
-    <table align="left">
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/react.png" width="65px"/>
-                <br /> React
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/nodejs.png" width="65px"/>
-                <br /> Node.js
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/mongodb.png" width="65px"/>
-                <br /> MongoDB
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/docker.png" width="65px"/>
-                <br /> Docker
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/kubernetes.png" width="65px"/>
-                <br /> Kubernetes
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="resources/icons/git.png" width="65px"/>
-                <br /> Git
-            </td>
-        </tr>
-    </table>
-    <img src="resources/svg/artificialintelligence.svg" height="225px"/>
 </div>
 
-<br clear="left"/>
+<br clear="right"/>
 
-<img align="left" src="resources/svg/webdevelopment.svg" height="277px"/>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  </> Professional Journey
+</h2>
 
-```csharp
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> Professional Experience
+
+**Full Stack Developer Intern** @ Tier5 Solutions *(Summer 2023)*
+
+- Developed scalable web applications using modern JavaScript frameworks
+- Implemented responsive design patterns for enhanced user experience
+- Collaborated in an agile environment with cross-functional teams
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="25" height="25" /> Learning These Days
+
+![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus,jenkins&theme=dark)
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </> Technical Arsenal
+</h2>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/react.svg" width="65px"/>
+        <br /> React
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/nextjs.svg" width="65px"/>
+        <br /> Next.js
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/typescript.svg" width="65px"/>
+        <br /> TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/nodejs.svg" width="65px"/>
+        <br /> Node.js
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/mongodb.svg" width="65px"/>
+        <br /> MongoDB
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="./resources/svg/docker.svg" width="65px"/>
+        <br /> Docker
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<img align="left" src="./resources/svg/systeminfo.svg" height="250px"/>
+
+csharp
     System Information
     ------------------------------------------
     OS: Windows 11 Pro
-    Kernel: 22H2, Build ver. 22621.2428
+    Kernel: Build ver. 22621.1992
     WM: Windows Explorer
-    Shell: PowerShell
-    Terminal: Windows Terminal
-    Resolution: 2560x1440
-    Theme: Dark
-    CPU: Intel Core i7 12700K @ 3.6GHz
-    GPU: Nvidia RTX 3070
-    Memory: 32GB DDR5 @ 5200MHz
-```
+    Shell: PowerShell & WSL
+    Terminal: Windows Terminal & Alacritty
+    Resolution: 1920x1080 & 2560x1440
+    Theme: Dark Mode
+    CPU: Intel Core i7-12700H @ 2.3GHz
+    GPU: Nvidia RTX 3060 Laptop GPU
+    Memory:  16GB DDR5 4800MHz
+    Storage: NVMe SSD 1TB + HDD 2TB
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">
+  📊 </> GitHub Analytics
+</h2>
+
+<details>
+  <summary><b>Languages Stats</b></summary>
+  <br/>
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_bright">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exeNyx7&theme=nord_dark">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_bright">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exeNyx7&theme=nord_dark">
+  </picture>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark">
+</picture>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=exeNyx7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">
+  🌐 </> Let's Connect
+</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
