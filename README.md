@@ -240,18 +240,25 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<div align="center">
+
+<div align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
+</div>
+
 <h2 align="center">📊 Stats 📊</h2>
 <br>
 <p align="center">
  <a href="#" alt="Most used languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=dracula&layout=compact" />
  </a>
  <br><br>
 </p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
-</div>
 
+<p align="center">
+ <a href="#" alt="github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxisandoval37&theme=dracula&show_icons=true&layout=compact" />
+ </a>
+</p>
 ---
 
 ### Let's Connect
