@@ -39,6 +39,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <h3 align="left">&lt;/&gt; Experience</h3> 
+
 ```csharp
     Professional Strengths
     ------------------------------------------
