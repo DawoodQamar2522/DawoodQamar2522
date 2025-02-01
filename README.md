@@ -22,7 +22,7 @@ exeNyx7@github:~$ ./whoami.sh
                 ||----w |
                 ||     ||
 ```
-<h2 align="center">&lt;/&gt; About Me</h2>
+<h2 align="left">&lt;/&gt; About Me</h2>
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 <h3 align="left">&lt;/&gt; Introduction</h3> 
 
@@ -74,7 +74,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
-<h2 align="center">&lt;/&gt; Technical Proficiency</h2>
+<h2 align="left">&lt;/&gt; Technical Proficiency</h2>
 <h3 align="left">&lt;/&gt; Programming Languages</h3>
 <br><br>
 <div align="center">
@@ -241,7 +241,7 @@ exeNyx7@github:~$ ./whoami.sh
 <div align="center">
     <br><br>
     <br><br>
-<h2 align="center">&lt;/&gt; Stats & Activity</h2>
+<h2 align="left">&lt;/&gt; Stats & Activity</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
 </div>
 
@@ -263,8 +263,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 ---
 
-### Let's Connect
 
+<h2 align="left">&lt;/&gt; Let's Connect</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
