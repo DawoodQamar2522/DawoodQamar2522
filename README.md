@@ -167,7 +167,6 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    <img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
 </div>
 <br />
 
