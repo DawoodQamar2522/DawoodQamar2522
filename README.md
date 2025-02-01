@@ -79,31 +79,39 @@ exeNyx7@github:~$ ./whoami.sh
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65px"/>
                 <br />
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65px"/>
                 <br />
             </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65px"/>
+                <br />
+            </td>
+           <td align="center" width="140" height="112.43">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px"/>
+               <br />
+           </td>
         </tr>
     </table>
     <img src="./resources/svg/artificialintelligence.svg" height="225px"/>
@@ -146,9 +154,8 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-</div>
     <img src="./resources/svg/inspiration.svg" height="225px"/>
-
+</div>
 <br>
 
 
