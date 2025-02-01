@@ -59,17 +59,13 @@ exeNyx7@github:~$ ./whoami.sh
     ------------------------------------------
     - **Bachelor of Science in Software Engineering**
       - FAST National University of Computer and Emerging Sciences, Islamabad
-      - Expected Graduation: 2025
+      - Expected Graduation: 2026
       - Focus Areas: Software Design, Systems Architecture, Cloud Computing
-
-    Technical Arsenal
-    ------------------------------------------
-    (Details regarding technical expertise)
 
     Professional Experience
     ------------------------------------------
     **Full Stack Developer Intern** | Tier5 Solutions
-    - Summer 2023
+    - Summer 2024
     - Developed and maintained scalable web applications using modern JavaScript frameworks
     - Collaborated with cross-functional teams to implement robust solutions
     - Contributed to both frontend and backend development lifecycles
@@ -242,10 +238,10 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <div align="center">
+<h2 align="center">📊 Stats 📊</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
 </div>
 
-<h2 align="center">📊 Stats 📊</h2>
 
 <div align="center">
   <a href="#" alt="Most used languages">
