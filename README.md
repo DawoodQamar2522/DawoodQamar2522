@@ -112,12 +112,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-                <br />
-            </td>
         </tr>
-
     </table>
     <img src="./resources/svg/artificialintelligence.svg" height="300px"/>
 </div>
