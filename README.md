@@ -44,7 +44,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
@@ -55,15 +55,15 @@ exeNyx7@github:~$ ./whoami.sh
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65px"/>
-                <br /> Docker
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px"/>
                 <br />
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./resources/icons/kubernetes.svg" width="65px"/>
-                <br /> Kubernetes
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px"/>
+                <br />
             </td>
         </tr>
     </table>
