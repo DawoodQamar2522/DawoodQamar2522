@@ -261,6 +261,25 @@ exeNyx7@github:~$ ./whoami.sh
 </div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=exeNyx7&theme=ayu-mirage&short_numbers=true" alt="GitHub Streak" /></a>
 
+
+
+<h2 align="center">📊 Stats 📊</h2>
+
+<div align="center">
+  <a href="#" alt="Most used languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord&layout=compact" height="180px"/>
+  </a>
+  <a href="#" alt="github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=exeNyx7&theme=nord&show_icons=true&layout=compact" height="180px"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=exeNyx7&theme=ayu-mirage&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</div>
+
 ---
 
 ### Let's Connect
