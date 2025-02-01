@@ -187,7 +187,11 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
             </td>
         </tr>
-        <tr></tr>
+        <tr>
+             <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
+            </td>
+        </tr>
     </table>
 </div>
 
