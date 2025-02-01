@@ -123,10 +123,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
-<br>
-
-<h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
+<h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
 
 <div align="center">
     <table align="right">
