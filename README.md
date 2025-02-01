@@ -128,7 +128,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
-<img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
+<img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
 <be>
 
 <div></div>
