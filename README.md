@@ -180,6 +180,10 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px"/>
                 <br />
             </td>
+                      <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
+                <br />
+            </td>
                         <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
                 <br />
@@ -202,10 +206,7 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
                 <br />
             </td>
-            <td align="center" width="110" height="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
-                <br />
-            </td>
+
                      <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px"/>
                 <br />
