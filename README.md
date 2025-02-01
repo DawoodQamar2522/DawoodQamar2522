@@ -169,9 +169,9 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-
 </div>
-<br>
+<img src="./resources/svg/inspiration.svg" height="280px"/>
+
 
 
 
