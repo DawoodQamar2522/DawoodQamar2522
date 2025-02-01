@@ -169,10 +169,10 @@ exeNyx7@github:~$ ./whoami.sh
 </div>
 
 
-<h3 align="center">&lt;/&gt; Tools & Technologies</h3>
 
 <div align="center">
     <div align="center">
+<h3 align="center">&lt;/&gt; Tools & Technologies</h3>
         <table align="center">
             <tr>
                 <td align="center" width="110" height="90">
