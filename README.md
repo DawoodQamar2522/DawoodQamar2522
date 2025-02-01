@@ -126,8 +126,6 @@ exeNyx7@github:~$ ./whoami.sh
 <img align="left" src="./resources/svg/webdevelopment.svg" height="300px"/>
 <br>
 
-<div></div>
-<div></div>
 <h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
 
 <div align="center">
@@ -170,6 +168,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
+### Tools & Technologies
 <div align="center">
 <h3 align="center">&lt;/&gt; Tools & Technologies</h3>
         <table align="center">
