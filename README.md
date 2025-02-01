@@ -161,6 +161,36 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
+<table align="right">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
+                <br />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px"/>
+                <br />
+            </td>
+        </tr>
+    </table>
     <div align="right">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
     </div>
