@@ -217,6 +217,26 @@ exeNyx7@github:~$ ./whoami.sh
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px"/>
             </td>
         </tr>
+        <tr>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.simpleicons.org/jenkins/D24939" width="50px"/>
+            </td>
+            <td align="center" width="110" height="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
+            </td>
+        </tr>
     </table>
 </div>
 
