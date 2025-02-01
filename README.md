@@ -82,7 +82,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ### Employer?
 > [!IMPORTANT]  
-> <a align="center" href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar" download>Download my resume</a>
+> <a align="center" href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar " target="_blank" download>Download my resume</a>
 <br><br><br>
 <br><br>
 
