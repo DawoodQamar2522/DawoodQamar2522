@@ -124,7 +124,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 <h3 align="left">&lt;/&gt; Tools & Technologies</h3> 
 <div align="left">
-    <table>
+    <table align="left">
         <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
@@ -193,9 +193,9 @@ exeNyx7@github:~$ ./whoami.sh
 </div>
 <br />
 
-<h3 align="left">&lt;/&gt; Frameworks & Libraries</h3>
-<div align="left">
-    <table align="left">
+<h3 align="right">&lt;/&gt; Frameworks & Libraries</h3>
+<div align="right">
+    <table align="right">
         <tr>
             <td align="center" width="110" height="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
