@@ -77,7 +77,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 ```
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0MDQwOTMsIm5iZiI6MTczODQwMzc5MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAxVDA5NTYzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlZTA4ZmQ3YTA1YmE0OWU1MDJhMWYxNTY0NGQyNDdjNDI4MTY1YmNjYmNlY2JkZDM1ODdiYjg3MzcyMjM4MjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.s8CX6mnWb3F8SmUby_c7WgR8bxz15No1WVQrKe-xTkQ" />
 
 ### Employer?
 > [!IMPORTANT]  
