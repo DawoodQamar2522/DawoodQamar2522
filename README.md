@@ -259,7 +259,7 @@ exeNyx7@github:~$ ./whoami.sh
  </a>
 </p>
 </div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=exeNyx7&theme=ayu-mirage&short_numbers=true" alt="GitHub Streak" /></a>
 
 ---
 
