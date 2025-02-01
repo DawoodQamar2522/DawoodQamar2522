@@ -236,6 +236,18 @@ exeNyx7@github:~$ ./whoami.sh
     </table>
 </div>
 
+
+
+<h2 align="center">📊 Stats 📊</h2>
+<br>
+<p align="center">
+ <a href="#" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord_dark&layout=compact" />
+ </a>
+ <br><br>
+</p>
+
+
 <div align="right">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark" />
 </div>
