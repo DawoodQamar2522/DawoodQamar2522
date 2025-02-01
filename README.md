@@ -125,7 +125,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 <br>
 
-### </> Tools & Technologies
+### </> Frameworks & Libraries
 
 <img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
 <be>
