@@ -2,9 +2,7 @@
   <img src="./resources/Banner.png" alt="Header" />
 </div>
 
-<p align="center">
-  <img src="./resources/svg/inspiration.svg" width="480px"/>
-</p>
+
 
 
 ```console
@@ -147,7 +145,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    <img src="./resources/svg/artificialintelligence.svg" height="225px"/>
+    <img src="./resources/svg/inspiration.svg" height="225px"/>
 </div>
 
 <br>
