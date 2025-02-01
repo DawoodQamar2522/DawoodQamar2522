@@ -115,7 +115,7 @@ exeNyx7@github:~$ ./whoami.sh
             </td>
         </tr>
     </table>
-    <img src="./resources/svg/artificialintelligence.svg" height="300px"/>
+    <img src="./resources/svg/artificialintelligence.svg" height="350px"/>
 </div>
 
 <br>
@@ -124,7 +124,7 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <h4 align="left">&lt;/&gt; Frameworks & Libraries</h3>
-
+<br />
 <div align="center">
     <table align="left">
         <tr>
@@ -173,7 +173,8 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <div align="center">
-    <h3>&lt;/&gt; Tools & Technologies</h3>
+    <h4>&lt;/&gt; Tools & Technologies</h3>
+    <br />
     <table>
         <tr>
             <td align="center" width="110" height="90">
