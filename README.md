@@ -85,15 +85,15 @@ exeNyx7@github:~$ ./whoami.sh
 > <a align="center" href="https://drive.google.com/drive/u/2/folders/1xHGbixJcfAEUZsCzop99SKtnhFOqHCar " target="_blank" download>Download my resume</a>
 <br><br><br>
 <br>
+<br clear="both">
 <div align="center">
-    
- <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
+  <a href="https://www.linkedin.com/in/dawood-qamar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
- <a href="https://discordapp.com/users/432108089106235392" target="_blank">
+  <a href="https://discordapp.com/users/432108089106235392" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="discord logo"  />
   </a>
- <a href="work.dawoodqamar@gmail.com" target="_blank">
+  <a href="work.dawoodqamar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
