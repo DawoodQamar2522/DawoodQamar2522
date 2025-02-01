@@ -171,7 +171,6 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 <div align="center">
-    <div align="center">
 <h3 align="center">&lt;/&gt; Tools & Technologies</h3>
         <table align="center">
             <tr>
@@ -243,8 +242,7 @@ exeNyx7@github:~$ ./whoami.sh
                     <img src="https://skillicons.dev/icons?i=aws" width="50px"/>
                 </td>
             </tr>
-        </table>
-    </div>
+    </table>
 </div>
 
 
