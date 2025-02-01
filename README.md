@@ -249,7 +249,7 @@ exeNyx7@github:~$ ./whoami.sh
 <br>
 <p align="center">
  <a href="#" alt="Most used languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=nord_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeNyx7&theme=nord&layout=compact" />
  </a>
  <br><br>
 </p>
