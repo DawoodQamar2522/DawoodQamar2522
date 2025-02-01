@@ -114,21 +114,44 @@ exeNyx7@github:~$ ./whoami.sh
 <br>
 
 <img align="left" src="./resources/svg/webdevelopment.svg" height="277px"/>
+<br>
 
-```csharp
-    System Information
-    ------------------------------------------
-    OS: Windows 10
-    Kernel: 21H1, Build ver. 19043.1110
-    WM: Windows Explorer
-    Shell: Powershell
-    Terminal: Alacritty
-    Resolution: 1920x1080
-    Theme: Dark Mode
-    CPU: Intel Core i5 11400 @ 2.6GHz
-    GPU: Nvidia GeForce GTX 1050
-    Memory: 16GB DDR4 3200MHz
-```
+<div align="center">
+    <table align="right">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="65px"/>
+                <br />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
+                <br />
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px"/>
+                <br />
+            </td>
+        </tr>
+    </table>
+    <img src="./resources/svg/artificialintelligence.svg" height="225px"/>
+</div>
+
+<br>
+
 
 ### GitHub Analytics
 
