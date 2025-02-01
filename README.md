@@ -172,7 +172,7 @@ exeNyx7@github:~$ ./whoami.sh
 <div align="center">
     <table align="center">
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="120" height="105.43">
                 <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50px"/>
                 <br />
             </td>
