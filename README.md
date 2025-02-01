@@ -6,12 +6,19 @@
   <img src="./resources/svg/inspiration.svg" width="480px"/>
 </p>
 
-<h2 align="center">Hi There 👋</h2>
-<p align="center">My name is Dawood Qamar, and welcome to my GitHub profile!</p>
-
 
 ```console
 exeNyx7@github:~$ ./whoami.sh
+```
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 <img align="left" src="./resources/svg/givingback.svg" height="222px"/>
 
