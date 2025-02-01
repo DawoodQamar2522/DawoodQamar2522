@@ -241,11 +241,11 @@ exeNyx7@github:~$ ./whoami.sh
 
 
 
+<h2 align="center">📊 Stats 📊</h2>
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exeNyx7&theme=nord_dark&layout=compact" />
 </div>
 
-<h2 align="center">📊 Stats 📊</h2>
 <br>
 <p align="center">
  <a href="#" alt="Most used languages">
