@@ -35,6 +35,44 @@ exeNyx7@github:~$ ./whoami.sh
     Location: Islamabad, Pakistan
 ```
 
+
+
+
+
+### Experience
+
+```csharp
+    Professional Strengths
+    ------------------------------------------
+    - 🚀 Full-stack development with modern technologies
+    - 🔧 Software architecture and system design
+    - 🛠️ DevOps practices and cloud infrastructure
+    - 🎨 UI/UX design with industry-standard tools
+    - 🔍 Quality assurance and testing methodologies
+    - 📊 Database management and optimization
+    - 🎯 Strong problem-solving capabilities
+
+    Education
+    ------------------------------------------
+    - **Bachelor of Science in Software Engineering**
+      - FAST National University of Computer and Emerging Sciences, Islamabad
+      - Expected Graduation: 2025
+      - Focus Areas: Software Design, Systems Architecture, Cloud Computing
+
+    Technical Arsenal
+    ------------------------------------------
+    (Details regarding technical expertise)
+
+    Professional Experience
+    ------------------------------------------
+    **Full Stack Developer Intern** | Tier5 Solutions
+    - Summer 2023
+    - Developed and maintained scalable web applications using modern JavaScript frameworks
+    - Collaborated with cross-functional teams to implement robust solutions
+    - Contributed to both frontend and backend development lifecycles
+    - Utilized agile methodologies for project delivery
+
+
 <br>
 
 <div align="center">
@@ -149,35 +187,3 @@ exeNyx7@github:~$ ./whoami.sh
 
 ---
 
-### Experience
-
-```csharp
-    Professional Strengths
-    ------------------------------------------
-    - 🚀 Full-stack development with modern technologies
-    - 🔧 Software architecture and system design
-    - 🛠️ DevOps practices and cloud infrastructure
-    - 🎨 UI/UX design with industry-standard tools
-    - 🔍 Quality assurance and testing methodologies
-    - 📊 Database management and optimization
-    - 🎯 Strong problem-solving capabilities
-
-    Education
-    ------------------------------------------
-    - **Bachelor of Science in Software Engineering**
-      - FAST National University of Computer and Emerging Sciences, Islamabad
-      - Expected Graduation: 2025
-      - Focus Areas: Software Design, Systems Architecture, Cloud Computing
-
-    Technical Arsenal
-    ------------------------------------------
-    (Details regarding technical expertise)
-
-    Professional Experience
-    ------------------------------------------
-    **Full Stack Developer Intern** | Tier5 Solutions
-    - Summer 2023
-    - Developed and maintained scalable web applications using modern JavaScript frameworks
-    - Collaborated with cross-functional teams to implement robust solutions
-    - Contributed to both frontend and backend development lifecycles
-    - Utilized agile methodologies for project delivery
