@@ -8,7 +8,7 @@
 ```console
 exeNyx7@github:~$ ./whoami.sh
 ```
-<h3 align="left">&lt;/&gt; Welcome</h3> 
+<h3 align="left">&lt;/&gt; Welcome </h3> 
 
 
 ```
